@@ -1,4 +1,4 @@
-// Slide 40-42 https://www.slideshare.net/pjschwarz/applicative-functor-part-2#40
+// Slides 40-42 https://www.slideshare.net/pjschwarz/applicative-functor-part-2#40
 object _3_Username_and_password_validation_using_Validation_Applicative extends App {
 
   trait Semigroup[A] {

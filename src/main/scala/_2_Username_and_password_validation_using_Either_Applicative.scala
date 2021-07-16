@@ -1,4 +1,4 @@
-// Slide 36-38 https://www.slideshare.net/pjschwarz/applicative-functor-part-2#36
+// Slides 36-38 https://www.slideshare.net/pjschwarz/applicative-functor-part-2#36
 object _2_Username_and_password_validation_using_Either_Applicative extends App {
 
   case class Username(username: String)
