@@ -1,0 +1,1 @@
+Scala code for (Applicative Functor - Part 2)[https://www.slideshare.net/pjschwarz/applicative-functor-part-2]
